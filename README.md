@@ -1,4 +1,4 @@
-# Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition
+# Knowledge Distillation through Supervised Contrastive Feature Approximation
 ## Requirements
 
 The code runs correctly with
