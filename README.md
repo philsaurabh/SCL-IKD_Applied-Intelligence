@@ -34,3 +34,14 @@ All things are setup and just activate the conda environment and run python File
 
 ### Data Preparation
 All the dataset have been already imported in the corresponding codes for CIFAR10 and CIFAR100 dataset. In case of Tinyimagenet dataset instruction will be given in the file for downloading the dataset and setting the path of the dataset.
+
+## Contact
+
+please contact saurabh_2021cs30@iitp.ac.in for any discrepancy.
+
+
+## Authors:
+
+* Saurabh Sharma
+* Shikhar Singh Lodhi
+* Joydeep Chandra
