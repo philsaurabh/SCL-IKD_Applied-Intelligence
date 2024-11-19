@@ -1,18 +1,7 @@
-# Knowledge Distillation through Supervised Contrastive Feature Approximation
-## Introduction
-Knowledge distillation aims to regularize the student model
-by extracting dark knowledge from a teacher network. The recent
-advances in this method use self-supervised contrastive
-learning alongside classification tasks to subsume more dark
-knowledge from a cumbersome model. But the due to the
-use of unsupervised pretraining of models, sometimes these
-methods result in misclassification and performance degradation.
-We propose a novel framework with improved loss
-function for the knowledge distillation process that uses supervised
-contrastive loss and negative cosine similarity alongside
-relative cross-entropy between projection embeddings
-rather than the actual logits of two models to train the student
-network.
+# SCL-IKD: intermediate knowledge distillation via supervised contrastive representation learning
+## Published at Applied intelligence Journal
+Here is the link to the [article](https://link.springer.com/article/10.1007/s10489-023-05036-y).
+
 ## Requirements
 
 The code runs correctly with
