@@ -45,3 +45,6 @@ please contact saurabh_2021cs30@iitp.ac.in for any discrepancy.
 * Saurabh Sharma
 * Shikhar Singh Lodhi
 * Joydeep Chandra
+  
+## Note
+The code provided have the random hyperparameter setting and will provide the basic idea. To reproduce the results, please feel free to contact.
